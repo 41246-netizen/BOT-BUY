@@ -38,4 +38,4 @@ run `npm install` in cmd
 
 รัน `run bot.bat` เพื่อ start บอท
 
-ใช้คําสั่ง `/setup` ใน discord เพื่อ set bot 
+ใช้คําสั่ง `/setup` ใน discord เพื่อ set bot .
